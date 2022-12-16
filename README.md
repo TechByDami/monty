@@ -198,20 +198,17 @@ Monty Files:
 -You can install the bf interpreter to test your code: sudo apt-get install bf
 
 ### 17. Add two digits
-
 	Add two digits given by the user.
 -   Read the two digits from stdin, add them, and print the result
 -   The total of the two digits with be one digit-long (<10)
 
 
 ### 18. Multiplication
-
 	Multiply two digits given by the user.
 -   Read the two digits from stdin, multiply them, and print the result
 -   The result of the multiplication will be one digit-long (<10)
 
-19. Multiplication level up
-
+### 19. Multiplication level up
 	Multiply two digits given by the user.
 -   Read the two digits from stdin, multiply them, and print the result, followed by a new line
 ![alt text](http://mein-fun.com/data/media/5/brainfuck_bean.jpg)
